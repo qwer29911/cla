@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bangkok Restaurants</string>
+
+    <!-- Search -->
+    <string name="search_hint">Szukaj restauracji (np. pad thai, sushi...)</string>
+    <string name="search_icon">Ikona wyszukiwania</string>
+    <string name="clear_search">Wyczyść wyszukiwanie</string>
+    <string name="no_results">Brak wyników dla tej frazy</string>
+    <string name="no_results_icon">Brak wyników</string>
+
+    <!-- Results -->
+    <string name="results_count">Znaleziono %d restauracji</string>
+    <string name="results_count_single">Znaleziono 1 restaurację</string>
+    <string name="all_restaurants">Wszystkie restauracje (%d)</string>
+
+    <!-- Detail -->
+    <string name="cuisine_type">Typ kuchni</string>
+    <string name="district">Dzielnica</string>
+    <string name="description">Opis</string>
+    <string name="address">Adres</string>
+    <string name="opening_hours">Godziny otwarcia</string>
+    <string name="distance_walking">Dystans pieszo</string>
+    <string name="open_in_google_maps">Otwórz w Google Maps</string>
+    <string name="reviews_count">(%s opinii)</string>
+
+    <!-- Distance -->
+    <string name="distance_rama9">Rama 9: %s km</string>
+    <string name="distance_sukh101">Sukh 101: %s km</string>
+</resources>
